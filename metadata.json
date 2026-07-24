@@ -1,0 +1,6 @@
+{
+  "name": "আমার খাতা",
+  "description": "Digital Tally Khata & Ledger book app for tracking customer debts, cash transactions, online and offline database support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
